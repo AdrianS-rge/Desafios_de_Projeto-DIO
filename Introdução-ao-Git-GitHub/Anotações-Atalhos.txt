@@ -1,0 +1,11 @@
+Git Bash é um terminal extendido para o Git
+
+criar nova pasta pelo cmd -> mkdir
+
+ver status do repositório -> git status
+
+adicionar todos os novos arquivos ao controle local -> git add .
+
+adicionar ao gitHub -> git commit 
+
+mandar para a nuvem -> git push origin 
